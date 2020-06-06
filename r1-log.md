@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Sarah Slate
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [June 6, Saturday, 2020].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Working with a Udemy tutorial for HTML5 and CSS3. Currently reviewing float properties, position, media queries, z-index, and ::before and ::after examples. 
 
 ### R1D2
