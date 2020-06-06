@@ -2,11 +2,11 @@
 
 ### Day 1: Saturday, June 6, 2020
 
-**Today's Progress**: Getting more comfortable with media quaries, float properties, position, z-index, and ::before and ::after through a Udemy course.
+**Today's Progress**: Getting more comfortable with media quaries, float properties, position, z-index, and ::before and ::after through a Udemy course. Also, worked on a technical documentation page for freecodecamp.
 
 **Thoughts**: These last few concepts have been a little difficult for me but it's nice to have a different resource. FreeCodeCamp didn't really give me a clear understanding of these concepts.
 
-**Link to work**: none today
+**Link to work**: https://codepen.io/dreamweaver1111/full/NWGaxLL
 
 
 
