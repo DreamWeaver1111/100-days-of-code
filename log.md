@@ -1,30 +1,139 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Saturday, June 6, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Getting more comfortable with media quaries, float properties, position, z-index, and ::before and ::after through a Udemy course.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: These last few concepts have been a little difficult for me but it's nice to have a different resource. FreeCodeCamp didn't really give me a clear understanding of these concepts.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work**: none today
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 2: Sunday, June 7, 2020
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: 
+
+**Link to work**: 
+
+
+
+### Day 3: Monday, June 8, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+
+### Day 4: Tuesday, June 9, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+
+### Day 5: Wednesday, June 10, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+
+### Day 6: Thursday, June 11, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+
+### Day 7: Friday, June 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+
+### Day : Saturday, June , 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+
+### Day : Sunday, June , 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+
+### Day : Monday, June , 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+
+### Day : Tuesday, June , 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+
+### Day : Wednesday, June , 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+
+### Day : Thursday, June , 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+
+### Day : Friday, June , 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
