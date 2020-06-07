@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [June 6, Saturday, 2020].
 Working with a Udemy tutorial for HTML5 and CSS3. Currently reviewing float properties, position, media queries, z-index, and ::before and ::after examples. Worked on FCC technical documentation project.
 
 ### R1D2
+put a chat bot together with JS and Node.JS today. time to learn JS.
