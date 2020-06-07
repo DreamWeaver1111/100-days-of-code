@@ -12,11 +12,11 @@
 
 ### Day 2: Sunday, June 7, 2020
 
-**Today's Progress**: 
+**Today's Progress**: made a chat bot! i'm so excited to see it up and running. now i just have to get it to do cool stuff!! 
 
-**Thoughts**: 
+**Thoughts**: time to get crackin' on learning JS. also discovered Go today. highest paid programming language. i'm going to learn that one of these days soon.
 
-**Link to work**: 
+**Link to work**: no link, the code is in a desktop file
 
 
 
